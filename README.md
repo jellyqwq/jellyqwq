@@ -15,7 +15,7 @@
 Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on China -->
-- 🌱 I’m currently learning C and pytorch
+- 🌱 I don't like jvav😥
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
